@@ -36,7 +36,8 @@ Follow these steps to run the project locally:
 
 Clone the repository
 
-git clone https://github.com/yourusername/react-stopwatch.git
+git clone https://github.com/Codermshuaibsi/STOPWATCH-REACT-.git
+
 cd react-stopwatch
 
 Install dependencies
@@ -48,8 +49,6 @@ Start the development server
 npm start
 
 Open in Browser
-
-The app should be running at http://localhost:3000
 
 📝 Usage
 
